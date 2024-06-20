@@ -11,3 +11,8 @@
   display: flex;
   background-image: linear-gradient(rgba(0, 0, 114, 0.778) , rgba(71, 0, 71, 0.805));
 }
+h1{
+  font-size: 48px; /* or any other size you prefer */
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* adds a glowing effect */
+  color: #fff; /* sets the text color to white */
+}
