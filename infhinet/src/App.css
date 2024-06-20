@@ -9,5 +9,5 @@
   align-items: center;
   justify-content: center;
   display: flex;
-  background-image: linear-gradient(purple , blue);
+  background-image: linear-gradient(rgba(0, 0, 114, 0.778) , rgba(71, 0, 71, 0.805));
 }
