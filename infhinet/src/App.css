@@ -9,4 +9,5 @@
   align-items: center;
   justify-content: center;
   display: flex;
+  background-image: linear-gradient(purple , blue);
 }
